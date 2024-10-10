@@ -1,6 +1,4 @@
-
-Predict stock prices, Investment in longterm assets, and Aladdin, AUM 
-
+![image](https://github.com/user-attachments/assets/30568840-8616-4d59-9892-5608ada657e6)
 
 # BlackRock (BLK) Investment Analysis
 
@@ -80,6 +78,8 @@ This analysis combines publicly available financial data, market information, an
 ## Disclaimer
 
 This analysis is based on historical data and predictive modeling. It should not be considered as financial advice. Past performance does not guarantee future results. Always conduct thorough due diligence and consult with a qualified financial advisor before making investment decisions.
+
+
 
 ## Contributors
 
