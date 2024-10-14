@@ -71,6 +71,8 @@ Our analysis employs multiple machine learning models to forecast future perform
 4. Internal Controls: Assess the effectiveness of internal controls over financial reporting.
 5. Related Party Transactions: Examine transactions with related entities for proper disclosure and arm's length terms.
 
+![Blk ass](https://github.com/user-attachments/assets/b987f4a5-3b04-4be0-ad1b-f44a3883b1dd)
+
 ## Methodology
 
 This analysis combines publicly available financial data, market information, and advanced predictive modeling techniques. We utilize ensemble methods, including Random Forest, Gradient Boosting, and XGBoost, to generate forecasts.
